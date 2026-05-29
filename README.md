@@ -98,7 +98,7 @@ Automatically identifies:
 
 ---
 
-### 🤖 AI-Based Cleaning Suggestions
+### AI-Based Cleaning Suggestions
 Provides intelligent recommendations for:
 - Missing value treatment
 - Duplicate removal
